@@ -1,0 +1,9 @@
+c:\users\jakoob\documents\visual studio 2015\Projects\CW4.2\CW4.2\bin\Debug\CW4.2.exe.config
+c:\users\jakoob\documents\visual studio 2015\Projects\CW4.2\CW4.2\bin\Debug\CW4.2.exe
+c:\users\jakoob\documents\visual studio 2015\Projects\CW4.2\CW4.2\bin\Debug\CW4.2.pdb
+c:\users\jakoob\documents\visual studio 2015\Projects\CW4.2\CW4.2\obj\Debug\CW4.2.csprojResolveAssemblyReference.cache
+c:\users\jakoob\documents\visual studio 2015\Projects\CW4.2\CW4.2\obj\Debug\CW4.2.exe
+c:\users\jakoob\documents\visual studio 2015\Projects\CW4.2\CW4.2\obj\Debug\CW4.2.pdb
+C:\Users\Jakoob\Source\Repos\CW4\CW4.2\CW4.2\bin\Debug\CW4.2.exe.config
+C:\Users\Jakoob\Source\Repos\CW4\CW4.2\CW4.2\obj\Debug\CW4.2.exe
+C:\Users\Jakoob\Source\Repos\CW4\CW4.2\CW4.2\obj\Debug\CW4.2.pdb
